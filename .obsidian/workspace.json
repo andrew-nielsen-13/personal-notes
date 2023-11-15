@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e1fbeb09f7d15b9b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Default location screenshot.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "images/Default location screenshot.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "images/Default location screenshot.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "images/Default location screenshot.png"
               }
             }
           }
@@ -146,10 +157,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "120a9aae8c9d7eed",
+  "active": "3d99efca2f8ba037",
   "lastOpenFiles": [
-    "images/Bright Space Background.jpg",
+    "images/Wikilinks screenshot.png",
+    "How to configure Obsidian vault.md",
+    "images/Default location screenshot.png",
     "test.md",
+    "images/Bright Space Background.jpg",
     "images"
   ]
 }
